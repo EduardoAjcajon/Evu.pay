@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100% ;
+}
+.logo-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5rem;
+}
+.logo-header img{
+    width: 5rem;
+}
+.header p{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.header ul{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25rem;
+}
+.header li{
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0.5rem;
+}
